@@ -1,4 +1,4 @@
-#Notes
+# Notes
 
 1. `reproducer_torch_source.py`: -> run this script to generate base kernels in the local `inductor_cache` folder.
 2. Copy and paste the kernel source code into the `ORIGINAL_SOURCE_TRITON` variable in `run_all_triton.py`
